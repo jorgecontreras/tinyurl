@@ -10,8 +10,6 @@ A lightweight, serverless URL shortener application built on **AWS** using **Ter
 - **Serverless Architecture**: Scalable, pay-as-you-go infrastructure with no servers to manage.
 - **Infrastructure as Code (IaC)**: Fully automated deployment using Terraform.
 
----
-
 ## Architecture Overview
 
 ### **AWS Services Used**
